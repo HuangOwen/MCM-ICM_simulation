@@ -1,0 +1,31 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Problem Statement}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Our Work}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Assumptions and Notations}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Assumptions}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Notations}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Model Construction and Implementation}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Theory of Diffusion}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Lattice Gas Automata\(LGA\) Model}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Molecular Dynamics\(MD\) Model}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.4}{Continuous Fluid\(CF\) Model}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.5}{Model Analysis and Selection}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Strategies}{}% 13
+\BOOKMARK [2][-]{subsection.4.1}{Opening Windows}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.2}{Exhausting Fans}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.3}{Temperature and Humidity}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.4}{Other Strategies}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.5}{Final Evaluation}{section.4}% 18
+\BOOKMARK [1][-]{section.5}{Model Analysis}{}% 19
+\BOOKMARK [2][-]{subsection.5.1}{Sensitivity Analysis}{section.5}% 20
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Impact of Volume}{subsection.5.1}% 21
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Impact of Temperature}{subsection.5.1}% 22
+\BOOKMARK [3][-]{subsubsection.5.1.3}{Impact of Additional Emission Sources}{subsection.5.1}% 23
+\BOOKMARK [3][-]{subsubsection.5.1.4}{Impact of Inner Structure}{subsection.5.1}% 24
+\BOOKMARK [2][-]{subsection.5.2}{Strengths and Weakness}{section.5}% 25
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Strengths}{subsection.5.2}% 26
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Weakness}{subsection.5.2}% 27
+\BOOKMARK [1][-]{section.6}{Conclusions}{}% 28
+\BOOKMARK [1][-]{section*.19}{Letter}{}% 29
+\BOOKMARK [1][-]{section*.20}{Appendices}{}% 30
+\BOOKMARK [1][-]{Appendix.a.A}{Appendix Implemented LGA Model}{}% 31
