@@ -1,0 +1,31 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Problem Statement}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Our Work}{3}{subsection.1.2}
+\contentsline {section}{\numberline {2}Assumptions and Notations}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Assumptions}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Notations}{5}{subsection.2.2}
+\contentsline {section}{\numberline {3}Model Construction and Implementation}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Theory of Diffusion}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Lattice Gas Automata(LGA) Model}{6}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Molecular Dynamics(MD) Model}{8}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Continuous Fluid(CF) Model}{9}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Model Analysis and Selection}{10}{subsection.3.5}
+\contentsline {section}{\numberline {4}Strategies}{11}{section.4}
+\contentsline {subsection}{\numberline {4.1}Opening Windows}{11}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Exhausting Fans}{13}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Temperature and Humidity}{13}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Other Strategies}{13}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Final Evaluation}{14}{subsection.4.5}
+\contentsline {section}{\numberline {5}Model Analysis}{14}{section.5}
+\contentsline {subsection}{\numberline {5.1}Sensitivity Analysis}{14}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Impact of Volume}{14}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Impact of Temperature}{15}{subsubsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.3}Impact of Additional Emission Sources}{16}{subsubsection.5.1.3}
+\contentsline {subsubsection}{\numberline {5.1.4}Impact of Inner Structure}{17}{subsubsection.5.1.4}
+\contentsline {subsection}{\numberline {5.2}Strengths and Weakness}{18}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Strengths}{18}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Weakness}{18}{subsubsection.5.2.2}
+\contentsline {section}{\numberline {6}Conclusions}{19}{section.6}
+\contentsline {section}{Letter}{21}{section*.19}
+\contentsline {section}{Appendices}{22}{section*.20}
+\contentsline {section}{Appendix \numberline {A}Implemented LGA Model}{22}{Appendix.a.A}
